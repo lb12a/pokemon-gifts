@@ -1,7 +1,7 @@
 {
   "BUBBLEBAND1T" : {
     "Items" : [["Mega-Washflair Ore", 1]],
-    "Pokemon" : []
+    "Pokemon" : [],
     "Missions_Started" : ["Catch Washflair"],
     "Missions_Complete" : [],
     "Money" : 0,
