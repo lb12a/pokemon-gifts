@@ -6,6 +6,15 @@
     "Missions_Complete" : [],
     "Money" : 0,
     "Badges" : ["Aqua Bandit", "Washflair Fan", "Washflair Master"]
+  },
+
+  "STARTK1T" : {
+    "Items" : [["Starterball-Fire", 1], ["Starterball-Water", 1], ["Starterball-Grass", 1]],
+    "Pokemon" : [],
+    "Missions_Started" : [],
+    "Missions_Complete" : [],
+    "Money" : 0,
+    "Badges" : ["Fire Champ", "Water Champ", "Grass Champ"]
   }
 
 }
